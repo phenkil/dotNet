@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lBJZu1318sK33zHX6/YJPbdyv9BeXe2clGceqj5ggzPy/lvgEHyopVdZZ68bzMFmKxo6UTH0s0s4XSmTWqbsFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phenk\\Documents\\dotNet\\dotNet\\MinhaAppVS\\MinhaAppVS\\MinhaAppVS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phenk\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
